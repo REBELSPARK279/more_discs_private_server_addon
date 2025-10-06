@@ -34,6 +34,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.MAPS_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.MELODY_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.MORE_THAN_YOU_KNOW_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.OVER_THE_LIFE_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.THE_HUM_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TREMOR_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TURBO_PENGUIN_MUSIC_DISC, Models.GENERATED);

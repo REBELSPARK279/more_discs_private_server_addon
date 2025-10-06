@@ -61,6 +61,10 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> MORE_THAN_YOU_KNOW_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "more_than_you_know"));
 
+    public static final SoundEvent OVER_THE_LIFE = registerSoundEvent("over_the_life");
+    public static final RegistryKey<JukeboxSong> OVER_THE_LIFE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "over_the_life"));
+
     public static final SoundEvent THE_HUM = registerSoundEvent("the_hum");
     public static final RegistryKey<JukeboxSong> THE_HUM_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "the_hum"));

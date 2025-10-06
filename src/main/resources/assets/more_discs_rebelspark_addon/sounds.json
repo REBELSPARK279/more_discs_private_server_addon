@@ -108,6 +108,15 @@
     ]
   },
 
+  "over_the_life": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:over_the_life",
+        "stream": true
+      }
+    ]
+  },
+
   "the_hum": {
     "sounds": [
       {

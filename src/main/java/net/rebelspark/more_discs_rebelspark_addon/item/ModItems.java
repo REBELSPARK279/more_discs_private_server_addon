@@ -113,6 +113,14 @@ public class ModItems {
                     super.appendTooltip(stack, context, displayComponent, textConsumer, type);
                     textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
 
+    public static final Item OVER_THE_LIFE_MUSIC_DISC = registerItem("over_the_life_music_disc",
+            new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
+                    "over_the_life_music_disc"))).jukeboxPlayable(ModSounds.OVER_THE_LIFE_KEY).maxCount(1)) {
+                @Override public void appendTooltip(ItemStack stack, TooltipContext context,
+                                                    TooltipDisplayComponent displayComponent, Consumer<Text> textConsumer, TooltipType type) {
+                    super.appendTooltip(stack, context, displayComponent, textConsumer, type);
+                    textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
+
     public static final Item THE_HUM_MUSIC_DISC = registerItem("the_hum_music_disc",
             new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
                     "the_hum_music_disc"))).jukeboxPlayable(ModSounds.THE_HUM_KEY).maxCount(1)) {

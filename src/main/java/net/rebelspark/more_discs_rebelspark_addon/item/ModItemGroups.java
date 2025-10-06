@@ -28,6 +28,7 @@ public class ModItemGroups {
                         entries.add(ModItems.MAPS_MUSIC_DISC);
                         entries.add(ModItems.MELODY_MUSIC_DISC);
                         entries.add(ModItems.MORE_THAN_YOU_KNOW_MUSIC_DISC);
+                        entries.add(ModItems.OVER_THE_LIFE_MUSIC_DISC);
                         entries.add(ModItems.THE_HUM_MUSIC_DISC);
                         entries.add(ModItems.TREMOR_MUSIC_DISC);
                         entries.add(ModItems.TURBO_PENGUIN_MUSIC_DISC);
