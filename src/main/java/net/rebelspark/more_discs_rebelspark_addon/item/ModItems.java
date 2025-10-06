@@ -25,6 +25,14 @@ public class ModItems {
                     super.appendTooltip(stack, context, displayComponent, textConsumer, type);
                     textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
 
+    public static final Item BE_GOOD_MUSIC_DISC = registerItem("be_good_music_disc",
+            new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
+                    "be_good_music_disc"))).jukeboxPlayable(ModSounds.BE_GOOD_KEY).maxCount(1)) {
+                @Override public void appendTooltip(ItemStack stack, TooltipContext context,
+                                                    TooltipDisplayComponent displayComponent, Consumer<Text> textConsumer, TooltipType type) {
+                    super.appendTooltip(stack, context, displayComponent, textConsumer, type);
+                    textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
+
     public static final Item BOOYAH_MUSIC_DISC = registerItem("booyah_music_disc",
             new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
                     "booyah_music_disc"))).jukeboxPlayable(ModSounds.BOOYAH_KEY).maxCount(1)) {

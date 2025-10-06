@@ -17,6 +17,7 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
 
                         entries.add(ModItems.BANANA_PANCAKES_MUSIC_DISC);
+                        entries.add(ModItems.BE_GOOD_MUSIC_DISC);
                         entries.add(ModItems.BOOYAH_MUSIC_DISC);
                         entries.add(ModItems.DARKER_THAN_BLOOD_MUSIC_DISC);
                         entries.add(ModItems.EVERY_END_MUSIC_DISC);

@@ -17,6 +17,10 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> BANANA_PANCAKES_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "banana_pancakes"));
 
+    public static final SoundEvent BE_GOOD = registerSoundEvent("be_good");
+    public static final RegistryKey<JukeboxSong> BE_GOOD_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "be_good"));
+
     public static final SoundEvent BOOYAH = registerSoundEvent("booyah");
     public static final RegistryKey<JukeboxSong> BOOYAH_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "booyah"));
