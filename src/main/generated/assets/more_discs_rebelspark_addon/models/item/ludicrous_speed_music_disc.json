@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_discs_rebelspark_addon:item/ludicrous_speed_music_disc"
+  }
+}

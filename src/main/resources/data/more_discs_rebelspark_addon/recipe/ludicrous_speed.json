@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "*": "minecraft:rabbit_hide",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    " D ",
+    "D*D",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_discs_rebelspark_addon:ludicrous_speed_music_disc"
+  }
+}

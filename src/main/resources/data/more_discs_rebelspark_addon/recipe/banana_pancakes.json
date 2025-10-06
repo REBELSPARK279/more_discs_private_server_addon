@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "*": "minecraft:hay_block",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    " D ",
+    "D*D",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_discs_rebelspark_addon:banana_pancakes_music_disc"
+  }
+}

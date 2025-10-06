@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "*": "minecraft:armadillo_scute",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    " D ",
+    "D*D",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_discs_rebelspark_addon:more_than_you_know_music_disc"
+  }
+}

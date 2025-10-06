@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "*": "minecraft:note_block",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    " D ",
+    "D*D",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_discs_rebelspark_addon:the_hum_music_disc"
+  }
+}

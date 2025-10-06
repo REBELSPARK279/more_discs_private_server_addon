@@ -1,0 +1,56 @@
+{
+
+  "item.more_discs_rebelspark_addon.banana_pancakes_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.banana_pancakes_music_disc.desc": "Jack Johnson - Banana Pancakes",
+
+  "item.more_discs_rebelspark_addon.booyah_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.booyah_music_disc.desc": "BOOYAH - Showtech Ft. We Are Loud & Sonny Wilson",
+
+  "item.more_discs_rebelspark_addon.darker_than_blood_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.darker_than_blood_music_disc.desc": "Darker Than Blood - Steve Aoki Ft. LINKIN PARK (Bassjackers remix)",
+
+  "item.more_discs_rebelspark_addon.every_end_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.every_end_music_disc.desc": "Every End... - Dimrain 47",
+
+  "item.more_discs_rebelspark_addon.heartbeat_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.heartbeat_music_disc.desc": "Heartbeat - Childish Gambino",
+
+  "item.more_discs_rebelspark_addon.isolation_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.isolation_music_disc.desc": "Isolation - Nighthawk22",
+
+  "item.more_discs_rebelspark_addon.lovers_on_the_sun_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.lovers_on_the_sun_music_disc.desc": "Lovers on the Sun - David Guetta Ft. Sam Martin (Showtech remix)",
+
+  "item.more_discs_rebelspark_addon.ludicrous_speed_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.ludicrous_speed_music_disc.desc": "Ludicrous Speed 1 - F-777",
+
+  "item.more_discs_rebelspark_addon.makhor_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.makhor_music_disc.desc": "MAKHOR - KURA",
+
+  "item.more_discs_rebelspark_addon.maps_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.maps_music_disc.desc": "Maps - Maroon 5 (Will Sparks Remix)",
+
+  "item.more_discs_rebelspark_addon.melody_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.melody_music_disc.desc": "Melody - Dimitri Vegas & Like Mike & Ummet Ozcan",
+
+  "item.more_discs_rebelspark_addon.more_than_you_know_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.more_than_you_know_music_disc.desc": "More than you Know - Axwell & Ingrosso (Firebeatz Remix)",
+
+  "item.more_discs_rebelspark_addon.the_hum_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.the_hum_music_disc.desc": "The Hum - Dimitri Vegas & Like Mike & Ummet Ozcan",
+
+  "item.more_discs_rebelspark_addon.tremor_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.tremor_music_disc.desc": "Tremor - Dimitri Vegas & Like Mike, Ft. Martin Garrix",
+
+  "item.more_discs_rebelspark_addon.turbo_penguin_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.turbo_penguin_music_disc.desc": "Turbo Penguin - Nitro Fun & Sound Remedy",
+
+  "item.more_discs_rebelspark_addon.yahtzee_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.yahtzee_music_disc.desc": "Yahtzee - Uberjackd",
+
+  "tooltip.more_discs_rebelspark.colour_ex": "§00§11§22§33§44§55§66§77§88§99§aa§bb§cc§dd§ee§0§khi§r<k§lhi§r§mhi§r§nhi§r§ohi§rhi",
+
+  "tooltip.more_discs_rebelspark_addon.all": "§dPrivate Server Exclusive",
+
+  "itemgroup.more_discs_rebelspark_addon.mod_discs": "More Discs Private Server Addon"
+}

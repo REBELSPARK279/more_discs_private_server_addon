@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "*": "minecraft:stone",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    " D ",
+    "D*D",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_discs_rebelspark_addon:makhor_music_disc"
+  }
+}

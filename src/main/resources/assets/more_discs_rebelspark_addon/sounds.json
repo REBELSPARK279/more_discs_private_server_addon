@@ -1,0 +1,147 @@
+{
+
+  "banana_pancakes": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:banana_pancakes",
+        "stream": true
+      }
+    ]
+  },
+
+  "booyah": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:booyah",
+        "stream": true
+      }
+    ]
+  },
+
+  "darker_than_blood": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:darker_than_blood",
+        "stream": true
+      }
+    ]
+  },
+
+  "every_end": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:every_end",
+        "stream": true
+      }
+    ]
+  },
+
+  "heartbeat": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:heartbeat",
+        "stream": true
+      }
+    ]
+  },
+
+  "isolation": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:isolation",
+        "stream": true
+      }
+    ]
+  },
+
+  "lovers_on_the_sun": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:lovers_on_the_sun",
+        "stream": true
+      }
+    ]
+  },
+
+  "ludicrous_speed": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:ludicrous_speed",
+        "stream": true
+      }
+    ]
+  },
+
+  "makhor": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:makhor",
+        "stream": true
+      }
+    ]
+  },
+
+  "maps": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:maps",
+        "stream": true
+      }
+    ]
+  },
+
+  "melody": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:melody",
+        "stream": true
+      }
+    ]
+  },
+
+  "more_than_you_know": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:more_than_you_know",
+        "stream": true
+      }
+    ]
+  },
+
+  "the_hum": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:the_hum",
+        "stream": true
+      }
+    ]
+  },
+
+  "tremor": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:tremor",
+        "stream": true
+      }
+    ]
+  },
+
+  "turbo_penguin": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:turbo_penguin",
+        "stream": true
+      }
+    ]
+  },
+
+  "yahtzee": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark_addon:yahtzee",
+        "stream": true
+      }
+    ]
+  }
+
+}
