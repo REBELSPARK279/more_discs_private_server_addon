@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "*": "minecraft:trial_key",
-    "D": "minecraft:redstone_block"
+    "*": "minecraft:redstone_block",
+    "D": "minecraft:diamond"
   },
   "pattern": [
     " D ",

@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "*": "minecraft:jukebox",
-    "D": "minecraft:phantom_membrane"
+    "*": "minecraft:phantom_membrane",
+    "D": "minecraft:diamond"
   },
   "pattern": [
     " D ",
