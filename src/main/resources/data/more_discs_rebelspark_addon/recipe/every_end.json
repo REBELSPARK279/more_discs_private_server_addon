@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "*": "minecraft:redstone",
+    "*": "minecraft:sand",
     "D": "minecraft:diamond"
   },
   "pattern": [
@@ -12,6 +12,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "more_discs_rebelspark_addon:darker_than_blood_music_disc"
+    "id": "more_discs_rebelspark_addon:every_end_music_disc"
   }
 }
