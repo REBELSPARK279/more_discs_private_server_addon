@@ -121,6 +121,22 @@ public class ModItems {
                     super.appendTooltip(stack, context, displayComponent, textConsumer, type);
                     textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
 
+    public static final Item NOISE_MUSIC_DISC = registerItem("noise_music_disc",
+            new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
+                    "noise_music_disc"))).jukeboxPlayable(ModSounds.NOISE_KEY).maxCount(1)) {
+                @Override public void appendTooltip(ItemStack stack, TooltipContext context,
+                                                    TooltipDisplayComponent displayComponent, Consumer<Text> textConsumer, TooltipType type) {
+                    super.appendTooltip(stack, context, displayComponent, textConsumer, type);
+                    textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
+
+    public static final Item OBSESSED_MUSIC_DISC = registerItem("obsessed_music_disc",
+            new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
+                    "obsessed_music_disc"))).jukeboxPlayable(ModSounds.OBSESSED_KEY).maxCount(1)) {
+                @Override public void appendTooltip(ItemStack stack, TooltipContext context,
+                                                    TooltipDisplayComponent displayComponent, Consumer<Text> textConsumer, TooltipType type) {
+                    super.appendTooltip(stack, context, displayComponent, textConsumer, type);
+                    textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
+
     public static final Item OVER_THE_LIFE_MUSIC_DISC = registerItem("over_the_life_music_disc",
             new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
                     "over_the_life_music_disc"))).jukeboxPlayable(ModSounds.OVER_THE_LIFE_KEY).maxCount(1)) {
@@ -148,6 +164,14 @@ public class ModItems {
     public static final Item TURBO_PENGUIN_MUSIC_DISC = registerItem("turbo_penguin_music_disc",
             new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
                     "turbo_penguin_music_disc"))).jukeboxPlayable(ModSounds.TURBO_PENGUIN_KEY).maxCount(1)) {
+                @Override public void appendTooltip(ItemStack stack, TooltipContext context,
+                                                    TooltipDisplayComponent displayComponent, Consumer<Text> textConsumer, TooltipType type) {
+                    super.appendTooltip(stack, context, displayComponent, textConsumer, type);
+                    textConsumer.accept(Text.translatable("tooltip.more_discs_rebelspark_addon.all"));}});
+
+    public static final Item TURBO_STRAWBERRY_MUSIC_DISC = registerItem("turbo_strawberry_music_disc",
+            new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(MoreDiscsAddon.MOD_ID,
+                    "turbo_strawberry_music_disc"))).jukeboxPlayable(ModSounds.TURBO_STRAWBERRY_KEY).maxCount(1)) {
                 @Override public void appendTooltip(ItemStack stack, TooltipContext context,
                                                     TooltipDisplayComponent displayComponent, Consumer<Text> textConsumer, TooltipType type) {
                     super.appendTooltip(stack, context, displayComponent, textConsumer, type);

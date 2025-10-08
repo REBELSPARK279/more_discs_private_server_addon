@@ -65,6 +65,14 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> MORE_THAN_YOU_KNOW_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "more_than_you_know"));
 
+    public static final SoundEvent NOISE = registerSoundEvent("noise");
+    public static final RegistryKey<JukeboxSong> NOISE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "noise"));
+
+    public static final SoundEvent OBSESSED = registerSoundEvent("obsessed");
+    public static final RegistryKey<JukeboxSong> OBSESSED_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "obsessed"));
+
     public static final SoundEvent OVER_THE_LIFE = registerSoundEvent("over_the_life");
     public static final RegistryKey<JukeboxSong> OVER_THE_LIFE_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "over_the_life"));
@@ -80,6 +88,10 @@ public class ModSounds {
     public static final SoundEvent TURBO_PENGUIN = registerSoundEvent("turbo_penguin");
     public static final RegistryKey<JukeboxSong> TURBO_PENGUIN_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "turbo_penguin"));
+
+    public static final SoundEvent TURBO_STRAWBERRY = registerSoundEvent("turbo_strawberry");
+    public static final RegistryKey<JukeboxSong> TURBO_STRAWBERRY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(MoreDiscsAddon.MOD_ID, "turbo_strawberry"));
 
     public static final SoundEvent YAHTZEE = registerSoundEvent("yahtzee");
     public static final RegistryKey<JukeboxSong> YAHTZEE_KEY =

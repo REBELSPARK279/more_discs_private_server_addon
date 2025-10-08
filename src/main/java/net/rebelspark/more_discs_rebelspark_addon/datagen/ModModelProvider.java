@@ -23,6 +23,7 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
 
         itemModelGenerator.register(ModItems.BANANA_PANCAKES_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.BE_GOOD_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.BOOYAH_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.DARKER_THAN_BLOOD_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.EVERY_END_MUSIC_DISC, Models.GENERATED);
@@ -34,10 +35,13 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.MAPS_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.MELODY_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.MORE_THAN_YOU_KNOW_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.NOISE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.OBSESSED_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.OVER_THE_LIFE_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.THE_HUM_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TREMOR_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.TURBO_PENGUIN_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TURBO_STRAWBERRY_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.YAHTZEE_MUSIC_DISC, Models.GENERATED);
 
     }

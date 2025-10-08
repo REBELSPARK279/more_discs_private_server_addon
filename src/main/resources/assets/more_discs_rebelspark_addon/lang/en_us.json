@@ -36,8 +36,14 @@
   "item.more_discs_rebelspark_addon.melody_music_disc": "Music Disc",
   "item.more_discs_rebelspark_addon.melody_music_disc.desc": "Melody - Dimitri Vegas & Like Mike & Ummet Ozcan",
 
+  "item.more_discs_rebelspark_addon.noise_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.noise_music_disc.desc": "I cant put hasjkdbgiuavbwod here bro",
+
   "item.more_discs_rebelspark_addon.more_than_you_know_music_disc": "Music Disc",
   "item.more_discs_rebelspark_addon.more_than_you_know_music_disc.desc": "More than you Know - Axwell & Ingrosso (Firebeatz Remix)",
+
+  "item.more_discs_rebelspark_addon.obsessed_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.obsessed_music_disc.desc": "Obsessed - Joel Fletcher (Valo Bootleg)",
 
   "item.more_discs_rebelspark_addon.over_the_life_music_disc": "Music Disc",
   "item.more_discs_rebelspark_addon.over_the_life_music_disc.desc": "Over the Life - Rudy Caminiti",
@@ -50,6 +56,9 @@
 
   "item.more_discs_rebelspark_addon.turbo_penguin_music_disc": "Music Disc",
   "item.more_discs_rebelspark_addon.turbo_penguin_music_disc.desc": "Turbo Penguin - Nitro Fun & Sound Remedy",
+
+  "item.more_discs_rebelspark_addon.turbo_strawberry_music_disc": "Music Disc",
+  "item.more_discs_rebelspark_addon.turbo_strawberry_music_disc.desc": "Turbo Strawberry - Acid Notation",
 
   "item.more_discs_rebelspark_addon.yahtzee_music_disc": "Music Disc",
   "item.more_discs_rebelspark_addon.yahtzee_music_disc.desc": "Yahtzee - Uberjackd",
